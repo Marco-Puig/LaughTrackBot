@@ -23,4 +23,4 @@ client.on('message', message =>{
     }
 });
 
-client.login('ODkxMzYwNjA4MTU3NTgxMzQy.YU9OQQ.i2WJIEXtK_ZJpCKb7ar-mpAcOwQ');
+client.login(TOKEN); //discord will not allow me to post my token :O
