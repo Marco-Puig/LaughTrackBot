@@ -8,7 +8,7 @@ www.hackapalooza.dev
 
 While the theme was 'to progam the unnecessary', I still feel that this can help Hollywood get back on track.
 
-Made using Node.js and Discord.js :D
+Made using Node.js and Discord.js.
 
 ## Add Bot:
 
