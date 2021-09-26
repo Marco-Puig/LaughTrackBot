@@ -12,7 +12,7 @@ While the theme was 'to progam the unnecessary', I still feel that this can help
 
 www.discord.com/oauth2/authorize?client_id=891360608157581342&scope=bot&permissions=8589934591
 
-## How to Use:
+## Video Demonstration:
 https://youtu.be/d7Zau7blxBY
 
 ## Created By:
