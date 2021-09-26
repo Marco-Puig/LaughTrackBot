@@ -4,16 +4,19 @@ A discord bot that thinks you are even funnier than Big Bang Theory...
 # Information
 This bot was made during the Hackapalooza event at FAU September 5th, 2021.
 
-https://hackapalooza.dev/
+www.hackapalooza.dev
 
 While the theme was 'to progam the unnecessary', I still feel that this can help Hollywood get back on track.
 
 # Add Bot:
 
-https://discord.com/oauth2/authorize?client_id=891360608157581342&scope=bot&permissions=8589934591
+discord.com/oauth2/authorize?client_id=891360608157581342&scope=bot&permissions=8589934591
 
+<<<<<<< HEAD
 # How to Use:
-https://www.youtube.com/watch?v=F2AkNAIgiHI&ab_channel=BananaFTW
+www.youtube.com/watch?v=F2AkNAIgiHI&ab_channel=BananaFTW
 
+=======
+>>>>>>> parent of 43264d8 (Final Commity)
 # Created By:
 Marco Puig
