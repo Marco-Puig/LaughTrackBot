@@ -31,5 +31,5 @@ client.on('message', message =>{
     }
 });
 
-client.login('TOKEN');
+client.login('TOKEN HERE');
 
