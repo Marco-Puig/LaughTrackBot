@@ -12,11 +12,8 @@ While the theme was 'to progam the unnecessary', I still feel that this can help
 
 https://discord.com/oauth2/authorize?client_id=891360608157581342&scope=bot&permissions=8589934591
 
-Commands:
-!help
-!laugh
-!laugh1
-!laugh2
+How to Use:
+yt.com/
 
 # Created By:
 Marco Puig
