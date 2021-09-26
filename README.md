@@ -2,7 +2,7 @@
 A discord bot that thinks you are even funnier than Big Bang Theory...
 
 ## Information
-This bot was made during the Hackapalooza event at FAU September 5th, 2021.
+This bot was made during the Hackapalooza event at FAU September 25th, 2021.
 
 www.hackapalooza.dev
 
