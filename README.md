@@ -10,7 +10,7 @@ While the theme was 'to progam the unnecessary', I still feel that this can help
 
 ## Add Bot:
 
-discord.com/oauth2/authorize?client_id=891360608157581342&scope=bot&permissions=8589934591
+www.discord.com/oauth2/authorize?client_id=891360608157581342&scope=bot&permissions=8589934591
 
 ## How to Use:
 www.youtube.com/watch?v=F2AkNAIgiHI&ab_channel=BananaFTW
