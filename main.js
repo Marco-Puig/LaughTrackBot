@@ -12,7 +12,7 @@ client.on('message', message =>{
     const args = message.content.slice(prefix.length).split(/ +/);
     const command = args.shift().toLowerCase();
 
-    if(command === 'help')
+    if(command === '!help')
     {
         message.channel.send('There are ZERO commands: it is all passive!');
         message.channel.send('Make sure to say a good joke :D');
